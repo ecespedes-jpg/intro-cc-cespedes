@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitacora_IA_L1.md",
+                "file": "Notebook sesión 2/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bitacora_IA_L1"
+              "title": "Sin título"
             }
           }
         ]
@@ -206,10 +206,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e3fc8948f15036d6",
+  "active": "74b3f58d23ab6c3d",
   "lastOpenFiles": [
-    "Nuevo Documento de texto.txt",
     "bitacora_IA_L1.md",
+    "Notebook sesión 2/Sin título.md",
+    "Nuevo Documento de texto.txt",
     "Hoja de laboratorio/Guía L1 sesión 2.md",
     "Hoja de laboratorio/Guía L1 sesión 1.md",
     "Notebook sesión 1/Sin título.md",
