@@ -1,0 +1,11 @@
+# Estado personal de Obsidian (distinto para cada persona)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Papelera local de Obsidian
+.trash/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://colab.research.google.com/",
+      "displayName": "Google Colab ",
+      "icon": "code",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
